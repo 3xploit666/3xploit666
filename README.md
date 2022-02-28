@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 3xploit</h1>
 <h3 align="center">I am passionate about computer security, currently I program in different languages ​​such as golang c # powershell. I am passionate about the red team area. I am an instructor of evasion and offensive development courses.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3xploit666&label=Profile%20views&color=0e75b6&style=flat" alt="3xploit666" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
