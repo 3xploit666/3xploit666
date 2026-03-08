@@ -19,14 +19,26 @@
 
 Offensive security professional focused on red team operations, evasion techniques, and building security tooling. I develop open-source tools for penetration testing, security research, and AI-powered automation.
 
-### Tech Stack
+### Languages & Tools
 
-```
-Languages    Go · Rust · C# · PowerShell · Python · TypeScript
-Offensive    BYOVD · Process Injection · AMSI Bypass · AES Encryption · Shellcode Loaders
-Platforms    Windows · Linux · AWS
-AI/ML        LangChain · MCP (Model Context Protocol) · LLM Agents
-```
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Expertise
+
+| Area | Skills |
+|------|--------|
+| **Offensive** | BYOVD, Process Injection, AMSI Bypass, AES Encryption, Shellcode Loaders |
+| **AI / ML** | LangChain, MCP (Model Context Protocol), LLM Agents, RAG |
+| **Infrastructure** | Docker, Nginx, AWS, CI/CD |
 
 ### Featured Projects
 
@@ -43,7 +55,6 @@ AI/ML        LangChain · MCP (Model Context Protocol) · LLM Agents
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=3xploit666&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3xploit666&theme=dark&hide_border=true" width="48%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xploit666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
 
 </div>
