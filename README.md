@@ -52,11 +52,3 @@ Offensive security professional focused on red team operations, evasion techniqu
 | [**RustLoader**](https://github.com/3xploit666/rustloader) | Advanced shellcode loader with anti-debugging and evasion | Rust | ⭐ 6 |
 | [**NeuronC2**](https://github.com/3xploit666/neuronc2.1) | Command & Control framework powered by MCP | Go | ⭐ 5 |
 | [**WatchDog Killer**](https://github.com/3xploit666/WatchDog_Killer) | BYOVD process termination for security research | Rust | ⭐ 4 |
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xploit666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
-
-</div>
