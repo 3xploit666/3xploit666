@@ -1,21 +1,49 @@
-<h1 align="center">Hi 👋, I'm 3xploit</h1>
-<h3 align="center">I am passionate about computer security, currently I program in different languages ​​such as golang c # powershell. I am passionate about the red team area. I am an instructor of evasion and offensive development courses.</h3>
+<div align="center">
 
+# 3xploit
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3xploit666" alt="3xploit666" /></a> </p>
+**Offensive Security Engineer · Red Team Operator · Malware Developer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francisco-javier-perez-rodas-0582ba1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-javier-perez-rodas-0582ba1b1/" height="30" width="40" /></a>
-<a href="https://3xploit666.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="3xploit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/3xploit666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3xploit666" height="30" width="40" /></a>
-</p>
+*Building advanced security tools in Go, Rust, C#, and PowerShell*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-javier-perez-rodas-0582ba1b1/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://3xploit666.medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/3xploit666)
+[![Blog](https://img.shields.io/badge/Blog-3xploit666.com-blue?style=for-the-badge)](https://3xploit666.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xploit666&show_icons=true&locale=en&layout=compact" alt="3xploit666" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3xploit666&show_icons=true&locale=en" alt="3xploit666" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3xploit666&" alt="3xploit666" /></p>
+### About
+
+Offensive security professional focused on red team operations, evasion techniques, and building security tooling. I develop open-source tools for penetration testing, security research, and AI-powered automation.
+
+### Tech Stack
+
+```
+Languages    Go · Rust · C# · PowerShell · Python · TypeScript
+Offensive    BYOVD · Process Injection · AMSI Bypass · AES Encryption · Shellcode Loaders
+Platforms    Windows · Linux · AWS
+AI/ML        LangChain · MCP (Model Context Protocol) · LLM Agents
+```
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Mneme**](https://github.com/3xploit666/mneme) | Persistent memory system for AI coding agents with hybrid search and knowledge graphs | Go |
+| [**NeuronC2**](https://github.com/3xploit666/neuronc2.1) | Command & Control framework powered by Model Context Protocol | Go |
+| [**WatchDog Killer**](https://github.com/3xploit666/WatchDog_Killer) | BYOVD process termination tool for security research | Rust |
+| [**RustLoader**](https://github.com/3xploit666/rustloader) | Advanced shellcode loader with anti-debugging and evasion techniques | Rust |
+| [**Shell-Custom**](https://github.com/3xploit666/Shell-Custom) | Defense-evasion reverse shell with encrypted communications | PowerShell |
+| [**AesGo**](https://github.com/3xploit666/AesGo) | AES encryption library for offensive Go tooling | Go |
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=3xploit666&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3xploit666&theme=dark&hide_border=true" width="48%"/>
+
+</div>
