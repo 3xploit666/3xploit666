@@ -42,14 +42,16 @@ Offensive security professional focused on red team operations, evasion techniqu
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Mneme**](https://github.com/3xploit666/mneme) | Persistent memory system for AI coding agents with hybrid search and knowledge graphs | Go |
-| [**NeuronC2**](https://github.com/3xploit666/neuronc2.1) | Command & Control framework powered by Model Context Protocol | Go |
-| [**WatchDog Killer**](https://github.com/3xploit666/WatchDog_Killer) | BYOVD process termination tool for security research | Rust |
-| [**RustLoader**](https://github.com/3xploit666/rustloader) | Advanced shellcode loader with anti-debugging and evasion techniques | Rust |
-| [**Shell-Custom**](https://github.com/3xploit666/Shell-Custom) | Defense-evasion reverse shell with encrypted communications | PowerShell |
-| [**AesGo**](https://github.com/3xploit666/AesGo) | AES encryption library for offensive Go tooling | Go |
+| Project | Description | Tech | Stars |
+|---------|-------------|------|-------|
+| [**Shell-Custom**](https://github.com/3xploit666/Shell-Custom) | Defense-evasion reverse shell with bypass capabilities | PowerShell | ⭐ 13 |
+| [**AM**](https://github.com/3xploit666/AM) | AMSI bypass via resurrection technique with C2 integration | C# | ⭐ 12 |
+| [**AesGo**](https://github.com/3xploit666/AesGo) | AES encryption library for offensive Go tooling | Go | ⭐ 10 |
+| [**Amsi-Go**](https://github.com/3xploit666/Amsi-Go) | In-memory AMSI patcher for red team operations | Go | ⭐ 9 |
+| [**3X-Shell**](https://github.com/3xploit666/3X-Shell) | AES-encrypted TCP reverse shell for pentesting | Go | ⭐ 9 |
+| [**RustLoader**](https://github.com/3xploit666/rustloader) | Advanced shellcode loader with anti-debugging and evasion | Rust | ⭐ 6 |
+| [**NeuronC2**](https://github.com/3xploit666/neuronc2.1) | Command & Control framework powered by MCP | Go | ⭐ 5 |
+| [**WatchDog Killer**](https://github.com/3xploit666/WatchDog_Killer) | BYOVD process termination for security research | Rust | ⭐ 4 |
 
 ---
 
